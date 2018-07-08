@@ -1,4 +1,3 @@
-# laravel54-Blog
-# Laravel 5.4
+# Blog Laravel 5.4 
 The complete source code for the blog
-Programmer.LK Sri Lanka
+# Programmer.LK Sri Lanka
